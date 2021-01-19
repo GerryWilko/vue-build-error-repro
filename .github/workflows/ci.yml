@@ -3,7 +3,7 @@ name: Reproducing Vue build error
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   test:
